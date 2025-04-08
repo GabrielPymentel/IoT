@@ -1,0 +1,17 @@
+Testes DHT11.
+Temperatura local: 24ºC
+Umidade local: 45%
+Tempo de atualização de dados: 3s
+
+Código documentado na mesma pasta.
+
+Equipamentos : 
+ESP32 WROOM
+Sensor DHT11
+Jumpers
+Protoboard
+Resistor de 20 ohm
+
+
+Bibliotecas:
+DHT - Adafruit
