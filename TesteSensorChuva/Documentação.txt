@@ -1,0 +1,14 @@
+Teste do Sensor de Chuva:
+
+Estimativa dos dados: 0 - 750
+
+Código documentado na mesma pasta.
+
+Equipamentos:
+Sensor de Chuva
+ESP32
+Jumpers
+Protoboard
+
+Biliotecas : 
+Wire
