@@ -1,0 +1,11 @@
+Teste no Sensor de Umidade de Solo.
+
+Estimativa dos dados : 1000 - 1800
+
+Código documentado na pasta.
+
+Equipamentos: 
+ESP32
+Sensor de umidade de solo
+Protoboard
+Jumpers
